@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gulten_Dogan_Odev3</string>
+    <string name="ad">Gülten</string>
+    <string name="soyad">Doğan</string>
+    <string name="email">gultendogann00@gmail.com</string>
+    <string name="hakkımda">Kahramanmaraş Sütçü İmam Üniversitesi\'nde Bilgisayar Mühendisliği son sınıf öğrencisiyim. İki yıl boyunca Kotlin ile android mobil uygulamalar geliştiriyorum.</string>
+</resources>
