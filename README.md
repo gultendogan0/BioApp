@@ -2,11 +2,11 @@
 
 ## 	:book: Description :
 
-<div>:point_right: In this application, you can access information about me, images, information you can contact me and my github account.</div>
-</br>
-<div>:point_right: Using the Glide library, the app showed icons from URLs.</div>
-</br>
-<div>:point_right: Relevant web pages were displayed in the application with WebView.</div>
+### :point_right: In this application, you can access information about me, images, information you can contact me and my github account.
+
+### :point_right: Using the Glide library, the app showed icons from URLs.
+
+### :point_right: Relevant web pages were displayed in the application with WebView.
 </br>
 
 | Pages in the app | 
